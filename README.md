@@ -1,8 +1,6 @@
 # Zambia Geo API (zambia_geo_api)
-
 A FastAPI-based REST API that provides structured access to Zambian geographic data, powered by the [zambia_geo](https://github.com/sangwani-coder/zambia_geo/) package.
 
-![Python CI](https://github.com/sangwani-coder/zmabia_geo_api/actions/workflows/tests.yml/badge.svg)
 
 ## Features
 
