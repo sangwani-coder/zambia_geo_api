@@ -8,7 +8,7 @@ app = FastAPI(
     title="Zambia Geo API", description="API for Zambian Geographic Data")
 
 
-origins = [*]
+origins = ["*"]
 
 app.add_middleware(
     CORSMiddleware,
